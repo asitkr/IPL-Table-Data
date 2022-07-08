@@ -1,0 +1,16 @@
+th{
+    background-color: #00008b ;
+    color : #ffffff;
+}
+
+td{
+    border: 1px solid #dddddd;
+}
+
+tbody tr td:first-child{
+    background-color: #f2f2f2;
+}
+
+tbody tr td:last-child{
+    background-color: #d1d1d1;
+}
